@@ -1,3 +1,7 @@
+# Mern Finance App
+
+Hands on MERN Finance Dashboard App
+
 Frontend:
 
 MaterialUI |
@@ -23,13 +27,12 @@ dependencies: npm create vite@latest
 
 npm i or yarn add
 
-@emotion/react |
-@emotion/styled |
-@mui/icons-material |
-@mui/material |
-@mui/x-data-grid |
-react |
-react-dom |
-react-redux |
-react-router-dom |
-recharts |
+@emotion/react 
+@emotion/styled 
+@mui/icons-material 
+@mui/material 
+@mui/x-data-grid 
+react-dom 
+react-redux 
+react-router-dom 
+recharts 
